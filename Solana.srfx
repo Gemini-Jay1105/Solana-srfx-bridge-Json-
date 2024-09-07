@@ -4,7 +4,7 @@
   "XChainBridge": {
     "LockingChainDoor": "rhWQzvdmhf5vFS35vtKUSUwNZHGT53qQsg",
     "LockingChainIssue": {
-      "currency": "SRFX"
+      "currency": "srfx"
     },
     "IssuingChainDoor": "FYCSQdUffakCzVuiNH9BWdzzZBwV6qYxw5tcoBTrGtNK",
     "IssuingChainIssue": {
